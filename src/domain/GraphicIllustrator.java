@@ -1,3 +1,6 @@
 package domain;
-public class GraphicIllustrator extends Artist {
+/**
+ * Class that describe GraphicIllustrator
+ */
+public class GraphicIllustrator extends Artist  {
 }
